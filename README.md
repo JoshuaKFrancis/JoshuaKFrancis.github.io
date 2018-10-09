@@ -1,2 +1,2 @@
-# JoshuaKFrancis.github.io
+# JoshuaFrancisWebsite
 Portfolio webpage for Joshua Francis
